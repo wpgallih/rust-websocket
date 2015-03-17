@@ -19,6 +19,6 @@ license = "MIT"
 [dependencies]
 sha1 = "~0.0.3"
 hyper = "~0.0.18"
-openssl = "~0.2.9"
+openssl = "~0.3.2"
 url = "~0.2.9"
 rustc-serialize = "~0.1.5"
